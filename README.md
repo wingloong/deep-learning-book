@@ -1,2 +1,2 @@
-# deep-learning-book
-deep learning book
+# deep-learning-material
+deep learning material including papers,books,tutorials and so on.
