@@ -5,3 +5,6 @@
 - cnn vis
 [CNN EXPLAINER: Learning Convolutional Neural Networks with
 Interactive Visualization] (https://arxiv.org/pdf/2004.15004.pdf)
+
+- face cluster
+[https://github.com/XiaohangZhan/cdp]
